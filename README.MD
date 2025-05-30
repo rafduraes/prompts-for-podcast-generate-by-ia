@@ -6,12 +6,13 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Preview do podcast
 </p>
 
-<div align="center">
-    <audio src="output/ep1-podcast-guildadainterface.MP3" controls title="Podcast editado"></audio>
-</div>
+<audio controls>
+  <source src="output/ep1-podcast-guildadainterface.MP3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
 
 # Projeto Podcast Gerado por I.A.s
 
