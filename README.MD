@@ -42,38 +42,8 @@ Utilizado uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `Gemini`
 - 🤖 2. Use os prompts de roteiro gerados pelo Gemini no `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `Gemini`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/rafduraes">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/rafduraes/">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
