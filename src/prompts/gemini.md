@@ -1,10 +1,9 @@
 ## 🧠 Prompts
 
+# Gemini：
 
-Gemini：
+## Título 
 
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Título  | 
 Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões
 de nomes criativos para um podcast de front end feito por nerds, e que tenha algum trocadilho nerd no nome
 
@@ -22,9 +21,8 @@ O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que e
 - Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
 - Não utilize a palavra frontend no nome nem qualquer variação dela
 
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+## Conteúdo
 
-| Conteúdo | 
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "Guilda da Interface" e tem foco em frontend, com o público alvo de iniciantes em frontend
 
 o formato do roteiro deve ser
@@ -60,8 +58,6 @@ Não use muitos termos técnicos
 
 Não ultrapasse 5 minutos de duração
 
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+### Imagem Capa
 
-| Imagem Capa | 
-
-create some medieval characters, they’re sitting in a log around a firecamp, one of them is a podcaster and in front of him, there’s  a medieval microphone,  retro style, isometric, cube, game style, low resolution, down angle , game boy colors, 8 bits, retro sprites --ar 1:1
+Create some medieval characters, they’re sitting in a log around a firecamp, one of them is a podcaster and in front of him, there’s  a medieval microphone,  retro style, isometric, cube, game style, low resolution, down angle , game boy colors, 8 bits, retro sprites --ar 1:1
